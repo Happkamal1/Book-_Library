@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Navbar />
       <Main />
-      <Movie />
+      {/* <Movie /> */}
       <Footer />
     </>
   )
